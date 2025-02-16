@@ -1,0 +1,20 @@
+{
+  "name": "notion_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "14.18.1",
+    "npm": "4.4.4"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@notionhq/client": "0.4.13",
+    "dotenv": "8.2.0",
+    "node-telegram-bot-api": "0.50.0"
+  }
+}
